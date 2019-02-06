@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "excelToJson", "excelToJson\excelToJson.csproj", "{C9EB1633-CE08-4515-AFED-94E78038BC99}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "excelToJson_console", "exceToJson_console\excelToJson_console.csproj", "{E7808D02-C4CC-46FA-8EB4-F0076F222690}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C9EB1633-CE08-4515-AFED-94E78038BC99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9EB1633-CE08-4515-AFED-94E78038BC99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9EB1633-CE08-4515-AFED-94E78038BC99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7808D02-C4CC-46FA-8EB4-F0076F222690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7808D02-C4CC-46FA-8EB4-F0076F222690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7808D02-C4CC-46FA-8EB4-F0076F222690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7808D02-C4CC-46FA-8EB4-F0076F222690}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
